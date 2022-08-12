@@ -1,3 +1,5 @@
+// Stock program where we can buy, sell and see the capital and average price
+
 package Stocks;
 
 public class Stock {
