@@ -1,3 +1,7 @@
+// Using arrays for the first time to create a Restaurant Bill 
+// Where the bill contains the ordered food, quantity and price
+// And is returned the order and total cost
+
 package restaurante;
 
 public class DriverBill {
